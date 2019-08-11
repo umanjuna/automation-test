@@ -1,0 +1,17 @@
+# Logs
+*.log
+
+# Dependency directory
+# Commenting this out is preferred by some people, see
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
+node_modules
+
+errorShots
+coverage
+package-lock.json
+.idea/automation-test.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/watcherTasks.xml
+.idea/workspace.xml
+.idea/inspectionProfiles/Project_Default.xml
